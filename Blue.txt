@@ -3,7 +3,7 @@ Blue color
 Pink
 Black
 White
-
+Red
 
 These are the options
 
